@@ -7,7 +7,7 @@ Predict numerical target variable with R^2 as metric of quality (yes, not the be
 
 3263 values for 145 features including year (so time series cross validation etc.) in train and 1000 samples in test. 
 
-Example of the data and exploratory chart:
+Target variable and one feature exploratory chart:
 
 ![](img/example.png)
 
